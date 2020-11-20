@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: mpro
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 1268793
+Implementation-Vendor-Id: com.lomaspro
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://projects.spring.io/spring-boot/mpro/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
